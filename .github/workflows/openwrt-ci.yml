@@ -63,8 +63,8 @@ jobs:
           cd package
           mkdir openwrt-packages
           cd openwrt-packages
-          git clone https://https://github.com/onizukaik7/openwrt-package/tree/master/lienol/luci-app-passwall
-          git https://github.com/onizukaik7/luci-app-ssr-plus-Jo
+          git clone https://github.com/onizukaik7/openwrt-package/tree/master/lienol/luci-app-passwall
+          git clone https://github.com/onizukaik7/luci-app-ssr-plus-Jo
           git clone https://github.com/Ameykyl/luci-app-koolproxyR
           git clone https://github.com/onizukaik7/OpenClash
           git clone https://github.com/rosywrt/luci-theme-rosy
